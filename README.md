@@ -1,8 +1,6 @@
 # Swifty Gadget
 
-![Plaform](https://img.shields.io/badge/platform-iOS-brightgreen.svg)
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nodes-ios/ModelBoiler/blob/master/LICENSE)
+![Plaform](https://img.shields.io/badge/platform-iOS-brightgreen.svg) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nodes-ios/ModelBoiler/blob/master/LICENSE)
 
 **Swifty Gadget** is a collection of useful extensions, convenience methods or anything else I re-use.
 
